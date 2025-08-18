@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swarnvo</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio2025-lake.vercel.app/](https://portfolio2025-lake.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-mauve-eta-11.vercel.app/](https://portfolio-mauve-eta-11.vercel.app/)
 
 - 📫 How to reach me **swarnavo2020@gmail.com**
 
