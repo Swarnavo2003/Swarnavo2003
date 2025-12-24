@@ -1,17 +1,18 @@
-<h1 align="center">✨ Hey there, I'm <strong>Swarnvo</strong> 👋</h1>
-<h3 align="center">Full-Stack Developer • API Crafter • Problem Solver</h3>
+<h1 align="center">✨ Hey there, I'm <strong>Swarnavo</strong> 👋</h1>
+<h3 align="center">Backend & Full-Stack Developer • API Crafter • Problem Solver</h3>
 
 <p align="center">
-🚀 Building scalable apps, polishing clean UIs, and bringing ideas to life — one commit at a time.
+🚀 Building scalable backend systems, clean APIs, and modern web apps — one commit at a time.
 </p>
 
 ---
 
 ### 🛠️ About Me  
-- 🔭 I love creating full-stack projects with **Next.js, Node.js, PostgreSQL & Cloud**.  
+- 🔭 I enjoy building backend-heavy full-stack applications using **Spring Boot, Node.js, Next.js, PostgreSQL & Cloud**  
+- 🌱 Currently strengthening my **Java + Spring Boot** stack alongside modern JavaScript frameworks  
 - 🌐 Check out my work: **[My Portfolio](https://portfolio-mauve-eta-11.vercel.app/)**  
 - 📩 Reach me at: **swarnavo2020@gmail.com**  
-- ⚡ Fun fact: I debug faster when I'm eating snacks 🍕  
+- ⚡ Fun fact: I debug faster when I’m eating snacks 🍕  
 
 ---
 
@@ -37,15 +38,18 @@
 
 <!-- Frontend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 
 <!-- Backend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" width="40" height="40"/>
 
 <!-- Databases -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
 
@@ -60,6 +64,6 @@
 
 <div align="center">
 
-⭐ **“Code. Create. Break things. Fix them. Grow.”**  
+⭐ **“Code. Build systems. Break things. Fix them. Grow.”**  
 
 </div>
